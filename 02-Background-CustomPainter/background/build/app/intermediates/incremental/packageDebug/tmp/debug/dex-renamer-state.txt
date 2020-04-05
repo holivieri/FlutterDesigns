@@ -1,4 +1,0 @@
-#Sat Mar 28 14:15:11 PDT 2020
-base.0=C\:\\HERNAN\\Flutter-Disenios\\02-Background-CustomPainter\\background\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

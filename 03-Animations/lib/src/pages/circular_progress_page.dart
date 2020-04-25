@@ -49,7 +49,7 @@ class _MiRadialProgress extends CustomPainter
 {
   final porcentaje;
 
-    _MiRadialProgress(this.porcentaje){}
+    _MiRadialProgress(this.porcentaje);
 
 
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class SliderModel with ChangeNotifier {
+class SlideModel with ChangeNotifier {
 
   double _currentPage = 0;
 
